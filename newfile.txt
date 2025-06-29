@@ -1,3 +1,0 @@
-feature file
-Hello
-hi
