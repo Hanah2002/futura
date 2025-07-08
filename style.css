@@ -1,0 +1,26 @@
+.header-top {
+    color: rgb(168, 29, 5);
+    background-color: lightgrey;
+}
+
+.header-nav {
+    color: rgb(5, 10, 168);
+    background-color: lightgrey;
+    list-style: none;
+}
+
+.header-nav ul>li>a {
+    color: rgb(220, 2, 136);
+    text-decoration: none;
+}
+
+.sample-p {
+    color: rgb(15, 240, 57);
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+}
